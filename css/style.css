@@ -1,0 +1,17 @@
+.img-background{
+	background-image: url("../images/centre.jpg");
+	width: 100%;
+	height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	} 
+.img-background2{
+	background-image: url("../images/centre.jpg");
+	width: 100%;
+	/*height: 100vh;*/
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	} 
+	 	 
